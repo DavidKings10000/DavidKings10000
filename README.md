@@ -1,4 +1,4 @@
-Hi am David and am recently persuing Software Engineering at Zetech University.
+Am David and am recently persuing Software Engineering at Zetech University.
 I recently attended a conference by International Software Testing Qualification Board held at Raddison Blu Hotel, Upperhill Nairobi on 22nd and 23rd February 
 
 <!---
